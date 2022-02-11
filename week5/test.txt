@@ -1,0 +1,7 @@
+1) I created a project with Maven.
+2) Found certain reps.
+3) Added them.
+4) Created DB.
+5) Added certain values to it.
+7) Changed some values from it.
+8) Deleted certain values from it.
