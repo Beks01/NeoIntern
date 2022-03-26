@@ -5,6 +5,8 @@ public class SoldProducts {
     private String date;
     private int workerID;
 
+    public SoldProducts() {
+    }
     public SoldProducts(int id, String date, int workerID) {
         this.id = id;
         this.date = date;
