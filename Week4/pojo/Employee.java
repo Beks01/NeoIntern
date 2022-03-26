@@ -2,7 +2,8 @@ public class Employee {
     private int id;
     private String type;
     private String name;
-
+  public Employee() {
+    }
     public Employee(int id, String type, String name) {
         this.id = id;
         this.type = type;
