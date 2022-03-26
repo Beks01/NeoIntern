@@ -3,6 +3,11 @@ public class Products {
     private String name;
     private int price;
 
+    
+    
+    
+     public Products() {
+    }
 
     public Products(int id, String name, int price) {
         this.id = id;
