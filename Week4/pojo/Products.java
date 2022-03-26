@@ -2,9 +2,6 @@ public class Products {
     private int id;
     private String name;
     private int price;
-
-    
-    
     
      public Products() {
     }
