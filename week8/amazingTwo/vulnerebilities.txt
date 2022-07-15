@@ -1,0 +1,2 @@
+In controller's folder there some method's in which data are taken directly from database. 
+And it is not so secure to do it. So you have to pass data through dto's and return dto 'cause it will hide some information of the definite table.
