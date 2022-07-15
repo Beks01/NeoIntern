@@ -1,3 +1,0 @@
-In controller's folder there are some information that are taken directly from database, 
-so it is not secure to retrieve data from database directly. 
-It should have done through dto's.
